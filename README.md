@@ -1,4 +1,5 @@
 **Correo Fantasma**
+---
 - Tipo de proyecto: Videojuego de exploración y suspenso en primera persona
 - Tecnología: Unity (versión 2022.3.36f1)
 - Plataforma: Windows (PC)
@@ -11,7 +12,7 @@
 Con su bolso vacío y un extraño silencio en las calles, Noé debe explorar lugares abandonados, entregar cartas y descubrir historias ocultas, mientras una carta sin remitente lo guía hacia un misterio aún más profundo.
 
 Este proyecto combina exploración narrativa, terror psicológico y mecánicas ambientales para crear una experiencia inmersiva y simbólica donde cada carta cuenta una historia… y cada historia revela un fragmento de la verdad.
----
+
 🧠**Aportaciones técnicas y mecánicas implementadas**
 - Exploración en primera persona: Navegación libre por escenarios ambientados con detalle y efectos atmosféricos.
 
