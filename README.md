@@ -55,7 +55,7 @@ Este proyecto combina exploración narrativa, terror psicológico y mecánicas a
 👥 **Autores**
 ---
 
-[@aelizaa]***Ana Elizabeth Pardo Quiñonez***
+***Ana Elizabeth Pardo Quiñonez***
 
 
 Visual / Content Designer
@@ -64,7 +64,7 @@ Dirección artística, diseño de entorno, contenido narrativo
 
 Git-hub: https://github.com/aelizaa
 
-[@CarolQuira14]***Carol Natalia Quira Campo***
+***Carol Natalia Quira Campo***
 
 Developer
 
