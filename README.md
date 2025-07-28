@@ -62,7 +62,7 @@ Dirección artística, diseño de entorno, contenido narrativo
 Git-hub: https://github.com/aelizaa
 
 ***Carol Natalia Quira Campo***
-
+---
 Developer
 
 Programación de mecánicas principales e interacción
@@ -70,7 +70,7 @@ Programación de mecánicas principales e interacción
 Git-hub: https://github.com/CarolQuira14
 
 ***Joan Sebastian Salcedo***
-
+---
 Developer / UX-UI Designer
 
 Diseño de experiencia del usuario, interfaz, programación, ambientación sonora
