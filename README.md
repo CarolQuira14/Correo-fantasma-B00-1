@@ -4,7 +4,6 @@
 - Plataforma: Windows (PC)
 - Ver proyecto: En este enlace puedes ver un video tipo gameplay del proyecto: https://www.youtube.com/watch?v=IGMzfzt_7l0&ab_channel=JOANSEBASTIANSALCEDOOBANDO
 ---
----
 🕯️**Descripción general**
 
 "Correo Fantasma" es una experiencia narrativa y atmosférica en primera persona donde el jugador asume el rol de Noé, un cartero atrapado en un misterioso pueblo cubierto por una densa neblina tras un accidente.
@@ -12,7 +11,6 @@
 Con su bolso vacío y un extraño silencio en las calles, Noé debe explorar lugares abandonados, entregar cartas y descubrir historias ocultas, mientras una carta sin remitente lo guía hacia un misterio aún más profundo.
 
 Este proyecto combina exploración narrativa, terror psicológico y mecánicas ambientales para crear una experiencia inmersiva y simbólica donde cada carta cuenta una historia… y cada historia revela un fragmento de la verdad.
----
 ---
 🧠**Aportaciones técnicas y mecánicas implementadas**
 - Exploración en primera persona: Navegación libre por escenarios ambientados con detalle y efectos atmosféricos.
