@@ -27,7 +27,7 @@ Este proyecto combina exploración narrativa, terror psicológico y mecánicas a
 - Carta sin destinatario: Un hilo narrativo principal que guía la exploración y plantea interrogantes al jugador.
 
 - Ambientación sonora envolvente: Efectos sonoros que refuerzan la atmósfera de misterio y suspenso.
----
+
 ---
 
 🎮**Mecánicas de juego principales**
@@ -38,7 +38,7 @@ Este proyecto combina exploración narrativa, terror psicológico y mecánicas a
 - Uso de la linterna: Ilumina zonas oscuras para revelar pistas, pero también activa peligros ocultos.
 
 - Misterio central: Una carta sin remitente guía la historia principal y guarda el secreto para desentrañar la verdad detrás del pueblo.
----
+
 ---
 
 🎯 **Propósito del proyecto**
@@ -49,17 +49,19 @@ Este proyecto combina exploración narrativa, terror psicológico y mecánicas a
 
 - Generar tensión narrativa a través de la estética, el diseño sonoro y las decisiones del jugador.
 
+---
+  
 👥 **Autores**
 
-Ana Elizabeth Pardo Quiñonez
-
+***Ana Elizabeth Pardo Quiñonez***
+---
 Visual / Content Designer
 
 Dirección artística, diseño de entorno, contenido narrativo
 
 Git-hub: https://github.com/aelizaa
 
-Carol Natalia Quira Campo
+***Carol Natalia Quira Campo***
 
 Developer
 
@@ -67,7 +69,7 @@ Programación de mecánicas principales e interacción
 
 Git-hub: https://github.com/CarolQuira14
 
-Joan Sebastian Salcedo
+***Joan Sebastian Salcedo***
 
 Developer / UX-UI Designer
 
