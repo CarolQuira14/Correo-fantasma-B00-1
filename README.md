@@ -4,7 +4,7 @@
 - Tecnología: Unity (versión 2022.3.36f1)
 - Plataforma: Windows (PC)
 - Ver proyecto: En este enlace puedes ver un video tipo gameplay del proyecto: https://www.youtube.com/watch?v=IGMzfzt_7l0&ab_channel=JOANSEBASTIANSALCEDOOBANDO
----
+
 🕯️**Descripción general**
 ---
 "Correo Fantasma" es una experiencia narrativa y atmosférica en primera persona donde el jugador asume el rol de Noé, un cartero atrapado en un misterioso pueblo cubierto por una densa neblina tras un accidente.
@@ -13,7 +13,7 @@ Con su bolso vacío y un extraño silencio en las calles, Noé debe explorar lug
 
 Este proyecto combina exploración narrativa, terror psicológico y mecánicas ambientales para crear una experiencia inmersiva y simbólica donde cada carta cuenta una historia… y cada historia revela un fragmento de la verdad.
 
----
+
 
 🧠**Aportaciones técnicas y mecánicas implementadas**
 ---
@@ -29,9 +29,10 @@ Este proyecto combina exploración narrativa, terror psicológico y mecánicas a
 
 - Ambientación sonora envolvente: Efectos sonoros que refuerzan la atmósfera de misterio y suspenso.
 
----
+
 
 🎮**Mecánicas de juego principales**
+---
 - Entrega de cartas: Explora escenarios abandonados para encontrar a los destinatarios y entregar cartas que revelan fragmentos de su pasado.
 
 - Exploración narrativa: Investiga entornos llenos de secretos, pistas visuales y objetos interactivos que expanden la historia.
@@ -40,19 +41,19 @@ Este proyecto combina exploración narrativa, terror psicológico y mecánicas a
 
 - Misterio central: Una carta sin remitente guía la historia principal y guarda el secreto para desentrañar la verdad detrás del pueblo.
 
----
 
 🎯 **Propósito del proyecto**
-
+---
 - Diseñar una experiencia inmersiva de suspenso psicológico basada en narrativa ambiental.
 
 - Desarrollar mecánicas de exploración e interacción que fortalezcan el vínculo entre jugador e historia.
 
 - Generar tensión narrativa a través de la estética, el diseño sonoro y las decisiones del jugador.
 
----
+
   
 👥 **Autores**
+---
 
 ***Ana Elizabeth Pardo Quiñonez***
 @aelizaa
