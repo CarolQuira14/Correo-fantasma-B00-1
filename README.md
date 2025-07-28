@@ -54,6 +54,7 @@ Este proyecto combina exploración narrativa, terror psicológico y mecánicas a
 👥 **Autores**
 
 ***Ana Elizabeth Pardo Quiñonez***
+@aelizaa
 ---
 Visual / Content Designer
 
