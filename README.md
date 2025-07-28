@@ -64,7 +64,7 @@ Dirección artística, diseño de entorno, contenido narrativo
 
 Git-hub: https://github.com/aelizaa
 
-[CarolQuira14]***Carol Natalia Quira Campo***
+[@CarolQuira14]***Carol Natalia Quira Campo***
 
 Developer
 
