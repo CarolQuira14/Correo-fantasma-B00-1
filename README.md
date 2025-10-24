@@ -52,11 +52,11 @@ Este proyecto se desarrolló como parte de la asignatura **Videojuegos** del pro
 
 ## 👥 Equipo de Desarrollo
 
-| Integrante | Rol | Contribuciones |
-|------------|-----|----------------|
-| **Ana Elizabeth Pardo Quiñonez** | Visual / Content Designer | Dirección artística, narrativa y ambientación |
-| **Carol Natalia Quira Campo** | Developer | Programación de mecánicas e interacción |
-| **Joan Sebastian Salcedo Obando** | Developer / UX-UI Designer | UI, lógica auxiliar y diseño sonoro |
+| Integrante | Rol | Contribuciones | Repositorio |
+|------------|-----|----------------| -----------|
+| **Ana Elizabeth Pardo Quiñonez** | Visual / Content Designer | Dirección artística, narrativa y ambientación | https://github.com/aelizaa |
+| **Carol Natalia Quira Campo** | Developer | Programación de mecánicas e interacción | https://github.com/CarolQuira14 |
+| **Joan Sebastian Salcedo Obando** | Developer / UX-UI Designer | UI, lógica auxiliar y diseño sonoro | https://github.com/joansalcedo1 |
 
 ---
 
